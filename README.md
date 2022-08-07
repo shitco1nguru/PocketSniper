@@ -1,5 +1,5 @@
-# PocketSniper
-Pocket Sniper tutorial, readme, etc.
+
+
 Hello! Welcome to PocketSniper readme. I hope it will help you not to miss the moonshots we all desire!
 In this short guide I will explain how to use it safely.
 First of all, what does this bot do? It interacts directly with uniswap contract, bypassing the UI and Metamask (aka router buy/sell with unlimited slippage). It is also possible to send several transactions in 1 block. Some contracts prohibit this, so only first one will come through. 
